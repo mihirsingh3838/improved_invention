@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16847942681",
+    "project_id": "flutter-test-e95e0",
+    "storage_bucket": "flutter-test-e95e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16847942681:android:7ddd91354cbf851e6e2688",
+        "android_client_info": {
+          "package_name": "com.example.learning_dart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16847942681-fcprloi11lukfg9j2v252fni93mp62tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZwYHlUr3CT1S5klZUHKQZr9ry7eth8ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16847942681-fcprloi11lukfg9j2v252fni93mp62tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
